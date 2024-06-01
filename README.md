@@ -1,1 +1,1 @@
-# Basic html code to display my resume.
+# Basic html / css code to display my resume.
