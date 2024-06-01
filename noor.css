@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: sans-serif;
+  
+    background-color: #f2f2f2;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+  
+  .header {
+    background-color: #ffffff;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    align-items:flex-start;
+    border-radius: 8px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  
+    background: linear-gradient(to right, #0069d9, #007bff);
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 4px 0;
+    font:italic;
+  }
+  
+  h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 4px 0;
+    font:italic;
+  }
+  
+  p {
+    font-size: 14px;
+    margin: 4px 0;
+    margin-bottom: 0;
+    max-width: 530px;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  .EDUCATION,
+  .ICS,
+  .Matriculation,
+  .SKILLS,
+  .PROJECTS,
+  .CERTIFICATES,
+  .LANGUAGES,
+  .INTERESTS {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  
+  .EDUCATION h2,
+  .ICS h2,
+  .Matriculation h2,
+  .SKILLS h2,
+  .PROJECTS h2,
+  .CERTIFICATES h2,
+  .LANGUAGES h2,
+  .INTERESTS h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #007bff;
+  }
+  
+  ul {
+    list-style-type: circle;
+    margin-left: 14px;
+    padding-left: 0;
+  }
+  
+  li {
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
